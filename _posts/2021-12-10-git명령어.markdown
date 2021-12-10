@@ -1,0 +1,44 @@
+---
+layout: post
+title: git 명령어
+categories:
+ - Git command
+permalink: /posts/6
+comments: true
+---
+
+# git명령어
+git 명령어를 1학기에 배우고 쓰지를 않아서 명령어가 기억안나서 작성하는 git 명령어입니다.
+
+### 시작
+git init : git 디렉토리 생성
+git clone <'URL'> . : 현재 디렉토리에 코드 복사
+
+### git status
+git status : 파일 상태 확인
+
+### git add
+git add . : 현재 디렉토리를 스테이징
+git add "파일명" : 파일을 스테이징
+git add -A : 모든 디렉토리(git의 하위 디렉토리) 전부 스테이징
+
+### git commit
+git commit -m "message" : message라는 메세지를 전달하면서 커밋 생성
+
+### git branch
+git branch : 브랜치 목록
+git branch "브랜치 이름" : 브랜치 생성
+git checkout -b "브랜치 이름" : 브랜치 이동, 이름이 없다면 브랜치 생성
+git checkout master : master branch로 이동
+git checkout -d "브랜치 이름" : 브랜치 삭제
+
+### git push
+git push : 원격 저장소에 업로드
+
+### git pull
+git pull : 원격 저장소의 내용을 로컬 저장소로 복사
+
+### 자주 쓰지 않는 내용
+git checkout -- "파일명" : 로컬 저장소의 커밋한 파일을 이전 파일로 복구(파일 변경 후 pull 쓸 때 사용)
+
+git log : 브랜치 번호 찾을 때 사용
