@@ -1,0 +1,15 @@
+---
+layout: post
+title: 블로그 제작4
+categories:
+ - Blog
+permalink: /posts/4
+comments: true
+---
+
+favicon을 추가하였습니다.
+
+
+
+이상 네 번째 블로그 제작을 마칩니다.
+
