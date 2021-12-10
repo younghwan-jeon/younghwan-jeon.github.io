@@ -56,3 +56,8 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
   math_engine: mathjax
+
+comment:
+  provider:	"disqus"
+  disqus:
+    shrotname:	"younghwan-jeon"
