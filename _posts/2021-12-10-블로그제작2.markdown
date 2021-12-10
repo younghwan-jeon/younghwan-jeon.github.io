@@ -1,0 +1,18 @@
+---
+layout: post
+title: 블로그 제작2
+categories:
+ - Blog
+permalink: /posts/2
+nocomments: false
+---
+
+bundle exec jekyll serve는 _posts 디렉토리 안에서 사용할 수 없었습니다. 정확히는 다른 사이트로 보내버립니다
+
+header에 Category에 글을 넣을 수 있게 됬습니다. welcome-to-jekyll이 여기에 있는 이유를 알았으니 지울 수 있게 됬습니다.
+
+만은 다른 기능을 이해할 때 도움이 될 수 있으니 나중에 삭제하겠습니다.
+
+이상 블로이상 두 번째 블로그 제작을 마칩니다.
+
+ps.지금은 nocomments에 대해 알아보고 있습니다.
