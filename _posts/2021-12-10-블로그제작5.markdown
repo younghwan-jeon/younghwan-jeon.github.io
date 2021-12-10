@@ -1,0 +1,23 @@
+---
+layout: post
+title: 블로그 제작5
+categories:
+ - Blog
+ - Jekyll-admin적용
+permalink: /posts/5
+comments: true
+---
+
+Jekyll-admin을 추가하였습니다.
+
+
+
+Gemfile 맨 밑에 줄에 	gem "jekyll-admin", group: :jekyll_plugins	을 추가하고
+
+gem install jekyll-admin 	을 터미널에 입력하고
+
+bundle exec jekyll serve	을 입력하고
+
+http://127.0.0.1:4000/admin	으로 실행해보았습니다.
+
+이후 주소/admin도 해보겠습니다.

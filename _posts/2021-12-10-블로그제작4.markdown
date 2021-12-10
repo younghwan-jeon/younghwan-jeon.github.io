@@ -10,6 +10,3 @@ comments: true
 favicon을 추가하였습니다.
 
 
-
-이상 네 번째 블로그 제작을 마칩니다.
-
