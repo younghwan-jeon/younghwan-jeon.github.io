@@ -1,5 +1,5 @@
 # Site settings
-title: younhwan Blog
+title: younghwan Blog
 url: "https://younghwan-jeon.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 #baseurl: "/jekyll-theme-EasyBook/" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
@@ -30,11 +30,13 @@ header:
     About: /about/
     Category: /category/
 
+
 permalink: /archivers/:title
 plugins:
  - jekyll-paginate
  - jekyll-gist
  - jemoji
+ - jekyll-admin
 
 # Build settings
 paginate: 5
