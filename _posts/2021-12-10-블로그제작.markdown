@@ -4,7 +4,7 @@ title: 블로그 제작
 categories:
  - Blog
 permalink: /posts/1
-nocomments: true
+comments: true
 ---
 
 솔직히 테마 적용만 아니였으면 진작에 끝났을 과제였습니다다.

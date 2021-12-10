@@ -7,7 +7,7 @@ permalink: /posts/3
 comments: true
 ---
 
-comments가 댓글과 관련있어보이니 네 번째 수업을 이해해 보고 있습니다.
+comments가 댓글과 관련있어보여 네 번째 수업을 통해 이해하고 적용하였습니다.
 baseurl을 주석처리하여 원격 Repo에서도 나오게 되었습니다.
 
 
